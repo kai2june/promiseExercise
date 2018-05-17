@@ -1,0 +1,19 @@
+{
+  "name": "promiseexercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kai2june/promiseExercise.git"
+  },
+  "author": "kai2june",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kai2june/promiseExercise/issues"
+  },
+  "homepage": "https://github.com/kai2june/promiseExercise#readme"
+}
